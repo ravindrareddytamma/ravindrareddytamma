@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravindrareddytamma
 - 👀 I’m interested in machine learning, data sciences and latest technologies
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on anything that makes this world a better place to leave
+- 💞️ I’m looking to collaborate on anything that makes this world a better place to live.
 - 📫 How to reach me mail:ravindrareddytamma@gmail.com
 
 <!---
